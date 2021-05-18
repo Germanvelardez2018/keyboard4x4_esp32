@@ -1,4 +1,0 @@
-source "/home/germanvelardez/Escritorio/esp-idf-v4.2/components/app_update/Kconfig.projbuild"
-source "/home/germanvelardez/Escritorio/esp-idf-v4.2/components/bootloader/Kconfig.projbuild"
-source "/home/germanvelardez/Escritorio/esp-idf-v4.2/components/esptool_py/Kconfig.projbuild"
-source "/home/germanvelardez/Escritorio/esp-idf-v4.2/components/partition_table/Kconfig.projbuild"
